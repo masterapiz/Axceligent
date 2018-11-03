@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_Biggest_Neighbor", "Axceligent\Sum_Biggest_Neighbor.csproj", "{561A0E29-54A4-4509-8B79-4A559C5DC22D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserClass", "UserClass\UserClass.csproj", "{FDAC43D8-9ABE-415D-AC8D-680F2CD0D360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnTheRobot", "JohnTheRobot\JohnTheRobot.csproj", "{97FFC285-C606-4FF0-9CB4-FEC0BEBCECA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaProject", "AlexaProject\AlexaProject.csproj", "{BA5F29FB-9109-4B5E-96F8-E4351C99F3AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Method Signiture", "Method Signiture", "{81739D5D-A0F3-438F-9C69-7E0B6196E891}"
+	ProjectSection(SolutionItems) = preProject
+		Method Signiture.txt = Method Signiture.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construction Game", "Construction Game\Construction Game.csproj", "{99D1CD05-2D8D-43F3-B089-A30053D17330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561A0E29-54A4-4509-8B79-4A559C5DC22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561A0E29-54A4-4509-8B79-4A559C5DC22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561A0E29-54A4-4509-8B79-4A559C5DC22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561A0E29-54A4-4509-8B79-4A559C5DC22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAC43D8-9ABE-415D-AC8D-680F2CD0D360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAC43D8-9ABE-415D-AC8D-680F2CD0D360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAC43D8-9ABE-415D-AC8D-680F2CD0D360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAC43D8-9ABE-415D-AC8D-680F2CD0D360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FFC285-C606-4FF0-9CB4-FEC0BEBCECA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FFC285-C606-4FF0-9CB4-FEC0BEBCECA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FFC285-C606-4FF0-9CB4-FEC0BEBCECA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FFC285-C606-4FF0-9CB4-FEC0BEBCECA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5F29FB-9109-4B5E-96F8-E4351C99F3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5F29FB-9109-4B5E-96F8-E4351C99F3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5F29FB-9109-4B5E-96F8-E4351C99F3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5F29FB-9109-4B5E-96F8-E4351C99F3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D1CD05-2D8D-43F3-B089-A30053D17330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D1CD05-2D8D-43F3-B089-A30053D17330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D1CD05-2D8D-43F3-B089-A30053D17330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D1CD05-2D8D-43F3-B089-A30053D17330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE4F357-72C6-4240-8480-5AA031FA3D81}
+	EndGlobalSection
+EndGlobal
